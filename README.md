@@ -1,6 +1,21 @@
+<a href="https://www.themotomate.com" target="_blank" align="center">
+    <img src="https://play-lh.googleusercontent.com/9yGjp2z876BYFjsJ0qragdEUOmERNeSd6oaBVcxMpYQD9STzYLdr50vm5pbG5OXW9g=w240-h480-rw" alt="Download on the App Store" height="100px">
+</a>
+
 # MotoMate: Open Source GPS Tracking and Fleet Management Solution
 
 MotoMate is a robust, open-source GPS tracking and fleet management solution built on top of the [Traccar](https://www.traccar.org/) platform. It is designed to help businesses manage and track their fleet operations efficiently. MotoMate offers a wide range of features that enhance fleet management, improve vehicle performance, and reduce operational costs.
+
+## Download the App
+
+MotoMate is available on both Android and iOS platforms for your convenience. Download the app from the links below:
+
+<a href="https://apps.apple.com/in/app/themotomate/id6479428200" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Download_on_the_App_Store_Badge.svg" alt="Download on the App Store" height="50px">
+</a>
+<a href="https://play.google.com/store/apps/details?id=com.themotomate.mapp&pcampaignid=web_share" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" alt="Get it on Google Play" height="50px">
+</a>
 
 ## Features
 
@@ -28,12 +43,6 @@ Generate detailed reports on vehicle usage, driver behavior, fuel consumption, t
 ### 🗣 Local Language Support
 MotoMate supports multiple local languages, making it accessible to users worldwide.
 
-## Download the App
-
-MotoMate is available on both Android and iOS platforms for your convenience. Download the app from the links below:
-
-[![Download on the App Store](https://upload.wikimedia.org/wikipedia/commons/a/a5/Apple_gray_logo.png)](https://apps.apple.com/in/app/themotomate/id6479428200)  
-[![Get it on Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=com.themotomate.mapp&pcampaignid=web_share)
 
 ---
 
@@ -51,4 +60,6 @@ MotoMate is licensed under the [Apache License 2.0](LICENSE), allowing you to fr
 
 ---
 
-For more information, visit our [website](https://www.themotomate.com) or join our [community forum](https://community.motomate.com) to get support and connect with other users.
+For more information, visit our [website](https://www.themotomate.com).
+
+Made with ❤️ by [samvit](https://samvit.xyz)
